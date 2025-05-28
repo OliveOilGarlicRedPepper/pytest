@@ -1,0 +1,15 @@
+[
+  "test_functions.py::test_add",
+  "test_functions.py::test_divide",
+  "test_functions.py::test_gcd",
+  "test_functions.py::test_is_gmail",
+  "test_functions.py::test_is_prime",
+  "test_functions.py::test_multiply",
+  "test_functions.py::test_normalize_text",
+  "test_functions.py::test_remove_duplicates",
+  "test_functions.py::test_remove_negatives",
+  "test_functions.py::test_reverse_list",
+  "test_functions.py::test_scale_data",
+  "test_functions.py::test_square",
+  "test_functions2.py::test_add"
+]

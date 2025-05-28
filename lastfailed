@@ -1,0 +1,9 @@
+{
+  "test_functions.py::test_remove_negatives": true,
+  "test_functions.py::test_scale_data": true,
+  "test_functions.py::test_normalize_text": true,
+  "test_functions.py::test_reverse_list": true,
+  "test_functions.py::test_gcd": true,
+  "test_functions.py::test_is_prime": true,
+  "test_functions.py::test_remove_duplicates": true
+}
